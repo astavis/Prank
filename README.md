@@ -1,7 +1,7 @@
 # Prank
 Python code that Interrupts a machine's Keyboard, Mouse, or screen. 
 
-
+**INFO** - Coded for MacOs-only
 
 **WHAT IS IT?**
 It is a python code that uses the pyautogui module to control the Keyboard and mouse. There will be three (3) option that it can do such as interrupting mouse movement, keyboard keys, and screen state.
